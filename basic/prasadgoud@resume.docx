@@ -1,0 +1,94 @@
+<html>
+<head>
+<title >workshop</title>
+<style>
+    h1 {
+        text-align: center;
+        background-color: gray;
+        padding: auto;
+    }
+   .end {
+    background-color: gray;
+    padding-bottom: 3cm;
+   }
+   body {
+    background-color: lightblue;
+   }
+   img {
+    image-rendering: crisp-edges;
+   }
+</style>
+</head>
+<body>
+    <img src="naveen.jpg" alt="">
+    <h1 style="text-align:center">resume</h1>
+    <p>candidate name: Borra naga siva sankara vara prasad goud</p>
+    <p>Mobile number :7993903694</p>
+    <p>Email ID :bnssvprasad965@gmail.com</p>
+    <h1>CARRIER OBJECTIVES</h1>
+   <p>To perceive a carrier in renowned form with dedicated efforts and to associate myself with an organization that gives me chance to update my knowledge.
+</p> 
+<h1>ACADEMICS</h1>
+<Ul>
+    <Li>Graduation details: Bachelor of technology in electronics and communication engineering from GIET engineering college, Rajahmundry with 6.7 CPGA, Passed out in 2021.
+    </Li>
+    <Li>12th grade:  Intermediate in MPC from Dr.A.C.S.W.R junior college kothuru, Rajahmundry with 919, passed out in 2017.
+    </Li>
+    <Li>Higher education: SKRRMPL high school with 8.7%, passed out in 2015.
+    </Li>
+</Ul>
+<h1>INTERNSHIPS & PROJECTS</h1>
+<ul>
+    <li>Internship at bharat sanchar nigam limited, Rajahmundry.</li>
+      <li> Project on Aircraft detection system.</li>
+      <li>  Project on health monitoring and soldier tracking using IOT</li>
+</ul>
+<h1>TECHINCAL SKILLS</h1>
+<ul>
+    <li>html</li>
+    <li>css</li>
+    <li>javascript</li>
+    <li>mysql</li>
+    <li>basics of python & angular js</li>
+</ul>
+<h1>PERSONAL DETAILS</h1>
+<ul>
+   <li> Name : Borra naga shiva shankara varaprasad goud</li>
+
+<li>Father name : Borra venkestawara Rao</li>
+ <li>Mother name : Borra uma</li>
+ <li>Address  : DNo: 1-14,dhanyampalem, addateegala mandal, east Godavari, Andhrapradesh,533428</li>
+<li> Hobbies : travelling , listening song ,strategic games, learning new things</li>
+ <li>Nationality : India</li>
+ <li> Languages known : English, telugu, hindi</li>
+<li>  Any kind of disability : no</li>
+ <li>Willing to relocate : yes </li>
+
+</ul>
+<h1>ACHIEVEMENTS</h1>
+<ul>
+    <li>I got certificate in power point presentation on optical communication
+    </li>
+    <li>I got certificate on python.
+    </li>
+</ul>
+<h1>DECLARATION</h1>
+<P>I hereby declare that all the above-mentioned information is true and correct to the best of my knowledge.
+</P>
+<h2 class="end"> place:rajahmundry  <br>  signature b.n.s.s.v. prasad goud</h2>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+
+ *{ box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    }
+
+.card {
+    background-color: rgb(250, 235, 215);
+    color: rgb(6, 136, 12);
+    width: 400px;
+    height:600px;
+    border:2px solid rgb(15, 13, 13);
+    margin-top:100px;
+}
+.fullbody {
+    background-color: rgb(32, 26, 26);
+}
+.imagelogo {
+    margin:80px 0px 0px 192px;
+}
+.email {
+    padding:40px;
+    width:50px;
+}
+
+.text {
+    text-align: center;
+}
+.btn {
+    background-color: orange;
+}
+
+@media only screen and     (max-width:500px)
+{
+    
+    .row {
+        justify-content: start;
+        flex-flow: column;
+        align-items: center;
+        padding:10px;
+            }
+      .imagelogo {
+        position:relative;
+        right:100px;
+        width:400px;
+      }
+        
+.card {
+    position: relative;
+    left:100px;
+    bottom:50px;
+    background-color: rgb(250, 235, 215);
+    color: rgb(6, 136, 12);
+    width: 400px;
+    height:600px;
+
+    
+}
+.signup {
+    position: relative;
+    bottom:80pxpx;
+    left:20px;
+}
+}

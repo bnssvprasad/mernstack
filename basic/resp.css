@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    margin: 6px;
+    padding: 1px;
+}
+
+
+
+.menuitem {position: relative;
+    flex-direction: row;
+    display: inline-block;
+    font-size: 50px;
+    padding: 8px;
+    margin-top: 7px;
+}
+
+.main {
+    
+    color: aliceblue;
+
+
+    float: left;
+    width: 100%;
+    font-size: large;
+    margin-top: 30px;
+    padding: 0 20px;
+}
+
+.course {
+    background-color: rgb(236, 159, 15);
+    border: 2px solid orange;
+    text-align: center;
+}
+
+.header {
+    background-color: #f1f1f1;
+    padding: 15px;
+    
+}
+
+.footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    font-size: 30px;
+}
+
+.right {
+    color: aliceblue;
+    width:100%;
+    text-align: center;
+}
+body{
+    background-color: rgb(46, 2, 87);
+}
+
+.htmlImage {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+  .textcolor {
+    color: orange;
+  }
+   .stack-overflow {
+    color:antiquewhite;
+    margin-left: 20px;
+    font:italic;
+
+   }
+
+@media only screen and(min-width:300px)
+
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
